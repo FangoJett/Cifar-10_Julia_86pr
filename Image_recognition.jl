@@ -162,20 +162,7 @@ end
 
 
 ###################################################################################
-###################################################################################
-###################################################################################
-###################################################################################
-#insight into individual images from set with prediction 
 
-
-#y_hat_raw = ai_model(test_images)
-#imgidx = 2162
-#zpliku = CIFAR10.convert2image(test_set[imgidx][1])
-#tempik = onecold(y_hat_raw[:,imgidx])
-#print("prediction: ")
-#print(label_names[tempik])
-#print("\n label: ")
-#print(label_names[test_set[imgidx][2]+1])
 
 
 
